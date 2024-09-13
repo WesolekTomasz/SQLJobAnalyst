@@ -44,7 +44,7 @@ Tableau is listed in 6 postings, highlighting the importance of data visualizati
 Looker appears in 5 postings, showing a need for skills in data exploration and visualization tools.
 Windows appears in 4 postings, reflecting the demand for OS knowledge.
 
-*/
+
 
 [
   {
@@ -408,3 +408,5 @@ Windows appears in 4 postings, reflecting the demand for OS knowledge.
     "skills": "gcp"
   }
 ]
+
+*/
